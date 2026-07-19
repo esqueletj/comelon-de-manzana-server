@@ -1,0 +1,12 @@
+{
+  "name": "comelon-de-manzana-server",
+  "version": "1.0.0",
+  "description": "Servidor online para Comelón de Manzana",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
